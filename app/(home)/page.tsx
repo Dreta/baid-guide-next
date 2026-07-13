@@ -14,7 +14,7 @@ export default function HomePage() {
                         <h1 className="text-2xl lg:text-3xl font-header font-bold">The BAID Survival Guide</h1>
                     </div>
                     <p className="text-white font-header">An Unofficial Guide for New and Old Alike</p>
-                    <p className="text-white font-header">Spring 2026 Edition</p>
+                    <p className="text-white font-header">Summer 2026 Edition</p>
                 </div>
 
                 <div className="h-[28rem] md:h-[40rem]"/>
